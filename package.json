@@ -1,0 +1,12 @@
+{
+  "name": "set-b-node-exam",
+  "version": "1.0.0",
+  "description": "try lang",
+  "main": "exam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Start": "node exam"
+  },
+  "author": "jonnagalarosa",
+  "license": "ISC"
+}
